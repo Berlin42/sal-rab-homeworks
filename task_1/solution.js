@@ -24,7 +24,7 @@ function addInCartMessage(title, price) {
 
     console.log (message)
     
-
+    //изменение для пуша на гитхаб
     // Конец решения задания №1.1.
 
     return message;
